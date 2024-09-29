@@ -3,3 +3,4 @@ second commit on branch
 fourth commit
 will this trigger a minor semver change?
 fixing some stuff
+now adding some stuff
