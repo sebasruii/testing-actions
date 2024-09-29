@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.1.0](https://github.com/sebasruii/testing-actions/compare/v1.0.0...v1.1.0) (2024-09-29)
+
+
+### Features
+
+* Adding some stuff ([4487695](https://github.com/sebasruii/testing-actions/commit/448769514c6f02646b55f3182a89e4b3f1f442cc))
+
+
+### Bug Fixes
+
+* Fixing some stuff ([084826d](https://github.com/sebasruii/testing-actions/commit/084826de8502cc127cea95445bbd1c6aa76e1819))
+* Fixing some stuff again ([0a20054](https://github.com/sebasruii/testing-actions/commit/0a200546575063856760eb3aaf0de5ed491e2785))
+
 ## 1.0.0 (2024-09-29)
 
 
