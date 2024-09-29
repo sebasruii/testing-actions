@@ -1,4 +1,3 @@
 test
 second commit on branch
-third commit
 fourth commit
